@@ -1,0 +1,525 @@
+C:\Users\rhals\source\repos\DBpro\DBpro\bin\Debug\DBpro.exe.config
+C:\Users\rhals\source\repos\DBpro\DBpro\bin\Debug\DBpro.exe
+C:\Users\rhals\source\repos\DBpro\DBpro\bin\Debug\DBpro.pdb
+C:\Users\rhals\source\repos\DBpro\DBpro\obj\Debug\DBpro.csprojAssemblyReference.cache
+C:\Users\rhals\source\repos\DBpro\DBpro\obj\Debug\DBpro.Form1.resources
+C:\Users\rhals\source\repos\DBpro\DBpro\obj\Debug\DBpro.Properties.Resources.resources
+C:\Users\rhals\source\repos\DBpro\DBpro\obj\Debug\DBpro.csproj.GenerateResource.cache
+C:\Users\rhals\source\repos\DBpro\DBpro\obj\Debug\DBpro.csproj.CoreCompileInputs.cache
+C:\Users\rhals\source\repos\DBpro\DBpro\obj\Debug\DBpro.exe
+C:\Users\rhals\source\repos\DBpro\DBpro\obj\Debug\DBpro.pdb
+C:\Users\rhals\source\repos\DBpro\DBpro\bin\Debug\MySql.Data.dll
+C:\Users\rhals\source\repos\DBpro\DBpro\bin\Debug\Google.Protobuf.dll
+C:\Users\rhals\source\repos\DBpro\DBpro\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\rhals\source\repos\DBpro\DBpro\bin\Debug\Renci.SshNet.dll
+C:\Users\rhals\source\repos\DBpro\DBpro\bin\Debug\MySql.Data.xml
+C:\Users\rhals\source\repos\DBpro\DBpro\obj\Debug\DBpro.csproj.CopyComplete
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro\DBpro\bin\Debug\DBpro.exe.config
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro\DBpro\bin\Debug\DBpro.exe
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro\DBpro\bin\Debug\DBpro.pdb
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro\DBpro\bin\Debug\MySql.Data.dll
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro\DBpro\bin\Debug\Google.Protobuf.dll
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro\DBpro\bin\Debug\BouncyCastle.Crypto.dll
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro\DBpro\bin\Debug\Renci.SshNet.dll
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro\DBpro\bin\Debug\MySql.Data.xml
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro\DBpro\obj\Debug\DBpro.csprojAssemblyReference.cache
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro\DBpro\obj\Debug\DBpro.Form1.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro\DBpro\obj\Debug\DBpro.Properties.Resources.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro\DBpro\obj\Debug\DBpro.csproj.GenerateResource.cache
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro\DBpro\obj\Debug\DBpro.csproj.CoreCompileInputs.cache
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro\DBpro\obj\Debug\DBpro.csproj.CopyComplete
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro\DBpro\obj\Debug\DBpro.exe
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro\DBpro\obj\Debug\DBpro.pdb
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro\DBpro\obj\Debug\DBpro.Homeboard.resources
+C:\Users\KMU_USER\Downloads\DBpro\DBpro\obj\Debug\DBpro.csprojAssemblyReference.cache
+C:\Users\KMU_USER\Downloads\DBpro\DBpro\obj\Debug\DBpro.Homeboard.resources
+C:\Users\KMU_USER\Downloads\DBpro\DBpro\obj\Debug\DBpro.Properties.Resources.resources
+C:\Users\KMU_USER\Downloads\DBpro\DBpro\obj\Debug\DBpro.csproj.GenerateResource.cache
+C:\Users\KMU_USER\Downloads\DBpro\DBpro\obj\Debug\DBpro.csproj.CoreCompileInputs.cache
+C:\Users\KMU_USER\Downloads\DBpro\DBpro\obj\Debug\DBpro.exe
+C:\Users\KMU_USER\Downloads\DBpro\DBpro\obj\Debug\DBpro.pdb
+C:\Users\KMU_USER\Downloads\DBpro\DBpro\bin\Debug\DBpro.exe.config
+C:\Users\KMU_USER\Downloads\DBpro\DBpro\bin\Debug\DBpro.exe
+C:\Users\KMU_USER\Downloads\DBpro\DBpro\bin\Debug\DBpro.pdb
+C:\Users\KMU_USER\Downloads\DBpro\DBpro\bin\Debug\Google.Protobuf.dll
+C:\Users\KMU_USER\Downloads\DBpro\DBpro\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\KMU_USER\Downloads\DBpro\DBpro\bin\Debug\Renci.SshNet.dll
+C:\Users\KMU_USER\Downloads\DBpro\DBpro\bin\Debug\MySql.Data.xml
+C:\Users\KMU_USER\Downloads\DBpro\DBpro\obj\Debug\DBpro.MsgView.resources
+C:\Users\KMU_USER\Downloads\DBpro\DBpro\obj\Debug\DBpro.csproj.CopyComplete
+C:\Users\KMU_USER\Downloads\DBpro\DBpro\obj\Debug\DBpro.Home.resources
+C:\Users\KMU_USER\Downloads\DBpro\DBpro\obj\Debug\DBpro.Friend.resources
+C:\Users\quf56\source\repos\DBpro\DBpro\bin\Debug\DBpro.exe.config
+C:\Users\quf56\source\repos\DBpro\DBpro\bin\Debug\DBpro.exe
+C:\Users\quf56\source\repos\DBpro\DBpro\bin\Debug\DBpro.pdb
+C:\Users\quf56\source\repos\DBpro\DBpro\bin\Debug\MySql.Data.dll
+C:\Users\quf56\source\repos\DBpro\DBpro\bin\Debug\Google.Protobuf.dll
+C:\Users\quf56\source\repos\DBpro\DBpro\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\quf56\source\repos\DBpro\DBpro\bin\Debug\Renci.SshNet.dll
+C:\Users\quf56\source\repos\DBpro\DBpro\bin\Debug\MySql.Data.xml
+C:\Users\quf56\source\repos\DBpro\DBpro\obj\Debug\DBpro.Friend.resources
+C:\Users\quf56\source\repos\DBpro\DBpro\obj\Debug\DBpro.Home.resources
+C:\Users\quf56\source\repos\DBpro\DBpro\obj\Debug\DBpro.Homeboard.resources
+C:\Users\quf56\source\repos\DBpro\DBpro\obj\Debug\DBpro.MsgView.resources
+C:\Users\quf56\source\repos\DBpro\DBpro\obj\Debug\DBpro.Properties.Resources.resources
+C:\Users\quf56\source\repos\DBpro\DBpro\obj\Debug\DBpro.csproj.GenerateResource.cache
+C:\Users\quf56\source\repos\DBpro\DBpro\obj\Debug\DBpro.csproj.CoreCompileInputs.cache
+C:\Users\quf56\source\repos\DBpro\DBpro\obj\Debug\DBpro.csproj.CopyComplete
+C:\Users\quf56\source\repos\DBpro\DBpro\obj\Debug\DBpro.exe
+C:\Users\quf56\source\repos\DBpro\DBpro\obj\Debug\DBpro.pdb
+C:\Users\quf56\source\repos\DBpro\DBpro\obj\Debug\DBpro.Login.resources
+C:\Users\quf56\source\repos\DBpro\DBpro\obj\Debug\DBpro.Signup.resources
+C:\Users\quf56\source\repos\DBpro\DBpro\obj\Debug\DBpro.csprojAssemblyReference.cache
+C:\Users\quf56\source\repos\DBpro\DBpro\obj\Debug\DBpro.Msg.resources
+C:\Users\quf56\source\repos\DBpro\DBpro\obj\Debug\DBpro.SendMsg.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 햇살씨가 한부분\DBpro\bin\Debug\DBpro.exe.config
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 햇살씨가 한부분\DBpro\bin\Debug\DBpro.exe
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 햇살씨가 한부분\DBpro\bin\Debug\DBpro.pdb
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 햇살씨가 한부분\DBpro\bin\Debug\MySql.Data.dll
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 햇살씨가 한부분\DBpro\bin\Debug\Google.Protobuf.dll
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 햇살씨가 한부분\DBpro\bin\Debug\BouncyCastle.Crypto.dll
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 햇살씨가 한부분\DBpro\bin\Debug\Renci.SshNet.dll
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 햇살씨가 한부분\DBpro\bin\Debug\MySql.Data.xml
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 햇살씨가 한부분\DBpro\obj\Debug\DBpro.csprojAssemblyReference.cache
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 햇살씨가 한부분\DBpro\obj\Debug\DBpro.Friend.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 햇살씨가 한부분\DBpro\obj\Debug\DBpro.Home.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 햇살씨가 한부분\DBpro\obj\Debug\DBpro.Homeboard.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 햇살씨가 한부분\DBpro\obj\Debug\DBpro.Login.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 햇살씨가 한부분\DBpro\obj\Debug\DBpro.Msg.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 햇살씨가 한부분\DBpro\obj\Debug\DBpro.MsgView.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 햇살씨가 한부분\DBpro\obj\Debug\DBpro.Properties.Resources.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 햇살씨가 한부분\DBpro\obj\Debug\DBpro.SendMsg.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 햇살씨가 한부분\DBpro\obj\Debug\DBpro.Signup.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 햇살씨가 한부분\DBpro\obj\Debug\DBpro.csproj.GenerateResource.cache
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 햇살씨가 한부분\DBpro\obj\Debug\DBpro.csproj.CoreCompileInputs.cache
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 햇살씨가 한부분\DBpro\obj\Debug\DBpro.csproj.CopyComplete
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 햇살씨가 한부분\DBpro\obj\Debug\DBpro.exe
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 햇살씨가 한부분\DBpro\obj\Debug\DBpro.pdb
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 내가한최신\DBpro\bin\Debug\DBpro.exe.config
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 내가한최신\DBpro\bin\Debug\DBpro.exe
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 내가한최신\DBpro\bin\Debug\DBpro.pdb
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 내가한최신\DBpro\bin\Debug\MySql.Data.dll
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 내가한최신\DBpro\bin\Debug\Google.Protobuf.dll
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 내가한최신\DBpro\bin\Debug\BouncyCastle.Crypto.dll
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 내가한최신\DBpro\bin\Debug\Renci.SshNet.dll
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 내가한최신\DBpro\bin\Debug\MySql.Data.xml
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 내가한최신\DBpro\obj\Debug\DBpro.csprojAssemblyReference.cache
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 내가한최신\DBpro\obj\Debug\DBpro.Friend.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 내가한최신\DBpro\obj\Debug\DBpro.Home.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 내가한최신\DBpro\obj\Debug\DBpro.Homeboard.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 내가한최신\DBpro\obj\Debug\DBpro.Login.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 내가한최신\DBpro\obj\Debug\DBpro.Msg.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 내가한최신\DBpro\obj\Debug\DBpro.MsgView.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 내가한최신\DBpro\obj\Debug\DBpro.Properties.Resources.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 내가한최신\DBpro\obj\Debug\DBpro.SendMsg.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 내가한최신\DBpro\obj\Debug\DBpro.Signup.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 내가한최신\DBpro\obj\Debug\DBpro.csproj.GenerateResource.cache
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 내가한최신\DBpro\obj\Debug\DBpro.csproj.CoreCompileInputs.cache
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 내가한최신\DBpro\obj\Debug\DBpro.csproj.CopyComplete
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 내가한최신\DBpro\obj\Debug\DBpro.exe
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 내가한최신\DBpro\obj\Debug\DBpro.pdb
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 내가한최신\DBpro\obj\Debug\DBpro.HomeboardModify.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 내가한최신\DBpro\obj\Debug\DBpro.CommentModify.resources
+C:\Users\quf56\source\repos\DBpro 내가한최신\DBpro\bin\Debug\DBpro.exe.config
+C:\Users\quf56\source\repos\DBpro 내가한최신\DBpro\bin\Debug\DBpro.exe
+C:\Users\quf56\source\repos\DBpro 내가한최신\DBpro\bin\Debug\DBpro.pdb
+C:\Users\quf56\source\repos\DBpro 내가한최신\DBpro\bin\Debug\MySql.Data.dll
+C:\Users\quf56\source\repos\DBpro 내가한최신\DBpro\bin\Debug\Google.Protobuf.dll
+C:\Users\quf56\source\repos\DBpro 내가한최신\DBpro\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\quf56\source\repos\DBpro 내가한최신\DBpro\bin\Debug\Renci.SshNet.dll
+C:\Users\quf56\source\repos\DBpro 내가한최신\DBpro\bin\Debug\MySql.Data.xml
+C:\Users\quf56\source\repos\DBpro 내가한최신\DBpro\obj\Debug\DBpro.csprojAssemblyReference.cache
+C:\Users\quf56\source\repos\DBpro 내가한최신\DBpro\obj\Debug\DBpro.CommentModify.resources
+C:\Users\quf56\source\repos\DBpro 내가한최신\DBpro\obj\Debug\DBpro.Friend.resources
+C:\Users\quf56\source\repos\DBpro 내가한최신\DBpro\obj\Debug\DBpro.Home.resources
+C:\Users\quf56\source\repos\DBpro 내가한최신\DBpro\obj\Debug\DBpro.Homeboard.resources
+C:\Users\quf56\source\repos\DBpro 내가한최신\DBpro\obj\Debug\DBpro.HomeboardModify.resources
+C:\Users\quf56\source\repos\DBpro 내가한최신\DBpro\obj\Debug\DBpro.Login.resources
+C:\Users\quf56\source\repos\DBpro 내가한최신\DBpro\obj\Debug\DBpro.Msg.resources
+C:\Users\quf56\source\repos\DBpro 내가한최신\DBpro\obj\Debug\DBpro.MsgView.resources
+C:\Users\quf56\source\repos\DBpro 내가한최신\DBpro\obj\Debug\DBpro.Properties.Resources.resources
+C:\Users\quf56\source\repos\DBpro 내가한최신\DBpro\obj\Debug\DBpro.SendMsg.resources
+C:\Users\quf56\source\repos\DBpro 내가한최신\DBpro\obj\Debug\DBpro.Signup.resources
+C:\Users\quf56\source\repos\DBpro 내가한최신\DBpro\obj\Debug\DBpro.csproj.GenerateResource.cache
+C:\Users\quf56\source\repos\DBpro 내가한최신\DBpro\obj\Debug\DBpro.csproj.CoreCompileInputs.cache
+C:\Users\quf56\source\repos\DBpro 내가한최신\DBpro\obj\Debug\DBpro.csproj.CopyComplete
+C:\Users\quf56\source\repos\DBpro 내가한최신\DBpro\obj\Debug\DBpro.exe
+C:\Users\quf56\source\repos\DBpro 내가한최신\DBpro\obj\Debug\DBpro.pdb
+C:\Users\quf56\source\repos\DBpro 내가한최신\DBpro\obj\Debug\DBpro.UserInfoUpdate.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 내가한최신\DBpro\obj\Debug\DBpro.UserInfoUpdate.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 내가한최신\DBpro\obj\Debug\DBpro.gboardmodify.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 내가한최신\DBpro\obj\Debug\DBpro.makingGroup.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\DBpro 내가한최신\DBpro\obj\Debug\DBpro.postgboard.resources
+\\Mac\Home\Downloads\DBpro 클리어 부분\DBpro\bin\Debug\DBpro.exe.config
+\\Mac\Home\Downloads\DBpro 클리어 부분\DBpro\bin\Debug\DBpro.exe
+\\Mac\Home\Downloads\DBpro 클리어 부분\DBpro\bin\Debug\DBpro.pdb
+\\Mac\Home\Downloads\DBpro 클리어 부분\DBpro\bin\Debug\MySql.Data.dll
+\\Mac\Home\Downloads\DBpro 클리어 부분\DBpro\bin\Debug\Google.Protobuf.dll
+\\Mac\Home\Downloads\DBpro 클리어 부분\DBpro\bin\Debug\BouncyCastle.Crypto.dll
+\\Mac\Home\Downloads\DBpro 클리어 부분\DBpro\bin\Debug\Renci.SshNet.dll
+\\Mac\Home\Downloads\DBpro 클리어 부분\DBpro\bin\Debug\MySql.Data.xml
+\\Mac\Home\Downloads\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.CommentModify.resources
+\\Mac\Home\Downloads\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Friend.resources
+\\Mac\Home\Downloads\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.gboardmodify.resources
+\\Mac\Home\Downloads\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Home.resources
+\\Mac\Home\Downloads\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Homeboard.resources
+\\Mac\Home\Downloads\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.HomeboardModify.resources
+\\Mac\Home\Downloads\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Login.resources
+\\Mac\Home\Downloads\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.makingGroup.resources
+\\Mac\Home\Downloads\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Msg.resources
+\\Mac\Home\Downloads\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.MsgView.resources
+\\Mac\Home\Downloads\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.postgboard.resources
+\\Mac\Home\Downloads\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Properties.Resources.resources
+\\Mac\Home\Downloads\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.SendMsg.resources
+\\Mac\Home\Downloads\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Signup.resources
+\\Mac\Home\Downloads\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.UserInfoUpdate.resources
+\\Mac\Home\Downloads\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csproj.CopyComplete
+\\Mac\Home\Downloads\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.exe
+\\Mac\Home\Downloads\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.pdb
+\\Mac\Home\Downloads\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.groupHome.resources
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\bin\Debug\DBpro.exe.config
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\bin\Debug\DBpro.exe
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\bin\Debug\DBpro.pdb
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\bin\Debug\MySql.Data.dll
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\bin\Debug\Google.Protobuf.dll
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\bin\Debug\BouncyCastle.Crypto.dll
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\bin\Debug\Renci.SshNet.dll
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\bin\Debug\MySql.Data.xml
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.CommentModify.resources
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Friend.resources
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.gboardmodify.resources
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.groupHome.resources
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Home.resources
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Homeboard.resources
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.HomeboardModify.resources
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Login.resources
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.makingGroup.resources
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Msg.resources
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.MsgView.resources
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.postgboard.resources
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Properties.Resources.resources
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.SendMsg.resources
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Signup.resources
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.UserInfoUpdate.resources
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csproj.CopyComplete
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.exe
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.pdb
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.gboardshow.resources
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Gboard.resources
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.gcommentmodify.resources
+\\Mac\Home\Desktop\DB\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.GroupForm.resources
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\bin\Debug\DBpro.exe.config
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\bin\Debug\DBpro.exe
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\bin\Debug\DBpro.pdb
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\bin\Debug\MySql.Data.dll
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\bin\Debug\Google.Protobuf.dll
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\bin\Debug\Renci.SshNet.dll
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\bin\Debug\MySql.Data.xml
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csprojAssemblyReference.cache
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.CommentModify.resources
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Friend.resources
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Gboard.resources
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.gboardmodify.resources
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.gboardshow.resources
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.gcommentmodify.resources
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.GroupForm.resources
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.groupHome.resources
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Home.resources
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Homeboard.resources
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.HomeboardModify.resources
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Login.resources
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.makingGroup.resources
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Msg.resources
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.MsgView.resources
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.postgboard.resources
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Properties.Resources.resources
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.SendMsg.resources
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Signup.resources
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.UserInfoUpdate.resources
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csproj.GenerateResource.cache
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csproj.CoreCompileInputs.cache
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csproj.CopyComplete
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.exe
+C:\Users\quf56\source\repos\새 폴더\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.pdb
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\bin\Debug\DBpro.exe.config
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\bin\Debug\DBpro.exe
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\bin\Debug\DBpro.pdb
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\bin\Debug\MySql.Data.dll
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\bin\Debug\Google.Protobuf.dll
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\bin\Debug\BouncyCastle.Crypto.dll
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\bin\Debug\Renci.SshNet.dll
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\bin\Debug\MySql.Data.xml
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.CommentModify.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Friend.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Gboard.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.gboardmodify.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.gboardshow.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.gcommentmodify.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.GroupForm.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.groupHome.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Home.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Homeboard.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.HomeboardModify.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Login.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.makingGroup.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Msg.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.MsgView.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.postgboard.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Properties.Resources.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.SendMsg.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Signup.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.UserInfoUpdate.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csproj.CopyComplete
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.exe
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.pdb
+\\Mac\Home\Desktop\DB\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.test.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\bin\Debug\DBpro.exe.config
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\bin\Debug\DBpro.exe
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\bin\Debug\DBpro.pdb
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\bin\Debug\MySql.Data.dll
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\bin\Debug\Google.Protobuf.dll
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\bin\Debug\Renci.SshNet.dll
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\bin\Debug\MySql.Data.xml
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csprojAssemblyReference.cache
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.CommentModify.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Friend.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Gboard.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.gboardmodify.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.gboardshow.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.gcommentmodify.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.GroupForm.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.groupHome.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Home.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Homeboard.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.HomeboardModify.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Login.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.makingGroup.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Msg.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.MsgView.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.postgboard.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Properties.Resources.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.SendMsg.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Signup.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.test.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.UserInfoUpdate.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csproj.GenerateResource.cache
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csproj.CoreCompileInputs.cache
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csproj.CopyComplete
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.exe
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종\DBpro 2019.12.13\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.pdb
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\bin\Debug\DBpro.exe.config
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\bin\Debug\DBpro.exe
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\bin\Debug\DBpro.pdb
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\bin\Debug\MySql.Data.dll
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\bin\Debug\Google.Protobuf.dll
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\bin\Debug\Renci.SshNet.dll
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\bin\Debug\MySql.Data.xml
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csprojAssemblyReference.cache
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.CommentModify.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Friend.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Gboard.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.gboardmodify.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.gboardshow.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.gcommentmodify.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.GroupForm.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.groupHome.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Home.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Homeboard.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.HomeboardModify.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Login.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.makingGroup.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Msg.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.MsgView.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.postgboard.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Properties.Resources.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.SendMsg.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Signup.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.test.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.UserInfoUpdate.resources
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csproj.GenerateResource.cache
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csproj.CoreCompileInputs.cache
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csproj.CopyComplete
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.exe
+C:\Users\eogh2\Documents\카카오톡 받은 파일\DBpro 최종이될수있을까\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.pdb
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\bin\Debug\DBpro.exe.config
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\bin\Debug\DBpro.exe
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\bin\Debug\DBpro.pdb
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\bin\Debug\MySql.Data.dll
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\bin\Debug\Google.Protobuf.dll
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\bin\Debug\BouncyCastle.Crypto.dll
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\bin\Debug\Renci.SshNet.dll
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\bin\Debug\MySql.Data.xml
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.CommentModify.resources
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Friend.resources
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Gboard.resources
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.gboardmodify.resources
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.gboardshow.resources
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.gcommentmodify.resources
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.GroupForm.resources
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.groupHome.resources
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Home.resources
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Homeboard.resources
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.HomeboardModify.resources
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Login.resources
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.makingGroup.resources
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Msg.resources
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.MsgView.resources
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.postgboard.resources
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Properties.Resources.resources
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.SendMsg.resources
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Signup.resources
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.test.resources
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.UserInfoUpdate.resources
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csproj.CopyComplete
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.exe
+\\Mac\Home\Desktop\DB확인용\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.pdb
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\bin\Debug\DBpro.exe.config
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\bin\Debug\DBpro.exe
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\bin\Debug\DBpro.pdb
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\bin\Debug\MySql.Data.dll
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\bin\Debug\Google.Protobuf.dll
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\bin\Debug\BouncyCastle.Crypto.dll
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\bin\Debug\Renci.SshNet.dll
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\bin\Debug\MySql.Data.xml
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.CommentModify.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Friend.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Gboard.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.gboardmodify.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.gboardshow.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.gcommentmodify.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.GroupForm.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.groupHome.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Home.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Homeboard.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.HomeboardModify.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Login.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.makingGroup.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Msg.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.MsgView.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.postgboard.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Properties.Resources.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.SendMsg.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Signup.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.UserInfoUpdate.resources
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csproj.CopyComplete
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.exe
+\\Mac\Home\Desktop\DB\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.pdb
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\bin\Debug\DBpro.exe.config
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\bin\Debug\DBpro.exe
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\bin\Debug\DBpro.pdb
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\bin\Debug\MySql.Data.dll
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\bin\Debug\Google.Protobuf.dll
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\bin\Debug\Renci.SshNet.dll
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\bin\Debug\MySql.Data.xml
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csprojAssemblyReference.cache
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.CommentModify.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Friend.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Gboard.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.gboardmodify.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.gboardshow.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.gcommentmodify.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.GroupForm.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.groupHome.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Home.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Homeboard.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.HomeboardModify.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Login.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.makingGroup.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Msg.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.MsgView.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.postgboard.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Properties.Resources.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.SendMsg.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Signup.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.UserInfoUpdate.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csproj.GenerateResource.cache
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csproj.CoreCompileInputs.cache
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csproj.CopyComplete
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.exe
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\DBpro 2019.12.14\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.pdb
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\bin\Debug\DBpro.exe.config
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\bin\Debug\DBpro.exe
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\bin\Debug\DBpro.pdb
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\bin\Debug\MySql.Data.dll
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\bin\Debug\Google.Protobuf.dll
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\bin\Debug\Renci.SshNet.dll
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\bin\Debug\MySql.Data.xml
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csprojAssemblyReference.cache
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.CommentModify.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Friend.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Gboard.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.gboardmodify.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.gboardshow.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.gcommentmodify.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.GroupForm.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.groupHome.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Home.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Homeboard.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.HomeboardModify.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Login.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.makingGroup.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Msg.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.MsgView.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.postgboard.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Properties.Resources.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.SendMsg.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Signup.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.UserInfoUpdate.resources
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csproj.GenerateResource.cache
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csproj.CoreCompileInputs.cache
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csproj.CopyComplete
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.exe
+C:\Users\rhals\OneDrive\문서\카카오톡 받은 파일\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.pdb
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\bin\Debug\DBpro.exe.config
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\bin\Debug\DBpro.exe
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\bin\Debug\DBpro.pdb
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\bin\Debug\Google.Protobuf.dll
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\bin\Debug\BouncyCastle.Crypto.dll
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\bin\Debug\Renci.SshNet.dll
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\bin\Debug\MySql.Data.xml
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csprojAssemblyReference.cache
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.CommentModify.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Friend.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Gboard.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.gboardmodify.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.gboardshow.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.gcommentmodify.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.GroupForm.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.groupHome.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Home.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Homeboard.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.HomeboardModify.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Login.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.makingGroup.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Msg.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.MsgView.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.postgboard.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Properties.Resources.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.SendMsg.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.Signup.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.UserInfoUpdate.resources
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csproj.GenerateResource.cache
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csproj.CoreCompileInputs.cache
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.csproj.CopyComplete
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.exe
+E:\계명대학교\3학년\2학기\데이터베이스\기말 프로젝트\데이터베이스 2조 팀프로젝트\DBpro 클리어 부분\DBpro\obj\Debug\DBpro.pdb
